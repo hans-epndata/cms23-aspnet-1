@@ -1,0 +1,69 @@
+header {
+    padding: 15px 0;
+
+    .container {
+        display: grid;
+        align-items: center;
+        gap: 40px;
+        grid-template-columns: 1fr auto;
+        grid-template-areas: "logo mobile";
+
+
+        @include xl {
+            grid-template-columns: auto 1fr auto auto;
+            grid-template-areas: "logo nav sw account";
+        }
+
+
+
+        .logo {
+            grid-area: logo;
+        }
+
+        nav {
+            grid-area: nav;
+            display: none;
+            gap: 20px;
+
+            a {
+                text-decoration: none;
+                font-weight: 600;
+                color: var(--color-gray-800);
+
+                &:active,
+                &.active,
+                &:hover {
+                    color: var(--color-theme);
+                    text-decoration: underline;
+                }
+            }
+
+            @include xl {
+                display: flex;
+            }
+        }
+
+        .btn-switch {
+            grid-area: sw;
+        }
+
+        .account-buttons {
+            grid-area: account;
+            display: none;
+            gap: 20px;
+
+            @include xl {
+                display: flex;
+            }
+        }
+
+        .btn-mobile {
+            grid-area: mobile;
+            display: block;
+
+            @include xl {
+                display: none;
+            }
+        }
+    }
+}

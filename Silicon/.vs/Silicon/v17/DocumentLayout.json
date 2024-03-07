@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\aspnet-1\\Silicon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A83C44A8-C808-4691-9C3D-3A9733926F4F}|WebApp\\WebApp.csproj|c:\\projects\\aspnet-1\\silicon\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A83C44A8-C808-4691-9C3D-3A9733926F4F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83C44A8-C808-4691-9C3D-3A9733926F4F}|WebApp\\WebApp.csproj|c:\\projects\\aspnet-1\\silicon\\webapp\\views\\default\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A83C44A8-C808-4691-9C3D-3A9733926F4F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\default\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83C44A8-C808-4691-9C3D-3A9733926F4F}|WebApp\\WebApp.csproj|c:\\projects\\aspnet-1\\silicon\\webapp\\views\\partials\\sections\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A83C44A8-C808-4691-9C3D-3A9733926F4F}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\partials\\sections\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 285,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projects\\aspnet-1\\Silicon\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projects\\aspnet-1\\Silicon\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T13:08:55.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Projects\\aspnet-1\\Silicon\\WebApp\\Views\\Default\\Home.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Default\\Home.cshtml",
+              "ToolTip": "C:\\Projects\\aspnet-1\\Silicon\\WebApp\\Views\\Default\\Home.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Default\\Home.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T13:08:49.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Projects\\aspnet-1\\Silicon\\WebApp\\Views\\Partials\\Sections\\_Header.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Partials\\Sections\\_Header.cshtml",
+              "ToolTip": "C:\\Projects\\aspnet-1\\Silicon\\WebApp\\Views\\Partials\\Sections\\_Header.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Partials\\Sections\\_Header.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T13:05:40.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+﻿<header>
+    <div class="container">
+        <a class="logo" asp-action="Home" asp-controller="Default"><img src="~/images/logos/silicon-logo.svg" alt="Silicon" /></a>
+    
+        <nav>
+            <a class="active" asp-action="Home" asp-controller="Default">Overview</a>
+            <a asp-action="Home" asp-controller="Default">Features</a>
+            <a asp-action="Contact" asp-controller="Default">Contact</a>
+        </nav>
+    
+        <div class="account-buttons">
+            <a class="btn-theme-secondary btn-small" asp-action="SignIn" asp-controller="Auth"><i class="fa-regular fa-arrow-right-to-bracket"></i>Sign in</a>
+            <a class="btn-theme btn-small" asp-action="SignUp" asp-controller="Auth"><i class="fa-regular fa-user"></i>Sign up</a>
+        </div>
+
+        <button class="btn-mobile"><i class="fa-regular fa-bars"></i></button>
+
+    </div>
+</header>

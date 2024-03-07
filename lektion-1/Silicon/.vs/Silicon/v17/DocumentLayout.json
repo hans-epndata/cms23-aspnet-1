@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\aspnet-1\\Silicon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F590FDA-4075-4101-A0EC-D89B92B26C31}|WebApp\\WebApp.csproj|c:\\projects\\aspnet-1\\silicon\\webapp\\wwwroot\\css\\scss\\sections\\_header.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{6F590FDA-4075-4101-A0EC-D89B92B26C31}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\css\\scss\\sections\\_header.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F590FDA-4075-4101-A0EC-D89B92B26C31}|WebApp\\WebApp.csproj|c:\\projects\\aspnet-1\\silicon\\webapp\\wwwroot\\css\\scss\\components\\_buttons.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{6F590FDA-4075-4101-A0EC-D89B92B26C31}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\css\\scss\\components\\_buttons.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F590FDA-4075-4101-A0EC-D89B92B26C31}|WebApp\\WebApp.csproj|c:\\projects\\aspnet-1\\silicon\\webapp\\wwwroot\\css\\scss\\cores\\_colors.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{6F590FDA-4075-4101-A0EC-D89B92B26C31}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\css\\scss\\cores\\_colors.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F590FDA-4075-4101-A0EC-D89B92B26C31}|WebApp\\WebApp.csproj|c:\\projects\\aspnet-1\\silicon\\webapp\\views\\partials\\sections\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F590FDA-4075-4101-A0EC-D89B92B26C31}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\partials\\sections\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 285,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_colors.scss",
+              "DocumentMoniker": "C:\\Projects\\aspnet-1\\Silicon\\WebApp\\wwwroot\\css\\scss\\cores\\_colors.scss",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\css\\scss\\cores\\_colors.scss",
+              "ToolTip": "C:\\Projects\\aspnet-1\\Silicon\\WebApp\\wwwroot\\css\\scss\\cores\\_colors.scss",
+              "RelativeToolTip": "WebApp\\wwwroot\\css\\scss\\cores\\_colors.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-03-04T14:46:42.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_buttons.scss",
+              "DocumentMoniker": "C:\\Projects\\aspnet-1\\Silicon\\WebApp\\wwwroot\\css\\scss\\components\\_buttons.scss",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\css\\scss\\components\\_buttons.scss",
+              "ToolTip": "C:\\Projects\\aspnet-1\\Silicon\\WebApp\\wwwroot\\css\\scss\\components\\_buttons.scss",
+              "RelativeToolTip": "WebApp\\wwwroot\\css\\scss\\components\\_buttons.scss",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAswDYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-03-04T14:40:54.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_header.scss",
+              "DocumentMoniker": "C:\\Projects\\aspnet-1\\Silicon\\WebApp\\wwwroot\\css\\scss\\sections\\_header.scss",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\css\\scss\\sections\\_header.scss",
+              "ToolTip": "C:\\Projects\\aspnet-1\\Silicon\\WebApp\\wwwroot\\css\\scss\\sections\\_header.scss",
+              "RelativeToolTip": "WebApp\\wwwroot\\css\\scss\\sections\\_header.scss",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-03-04T14:30:47.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Projects\\aspnet-1\\Silicon\\WebApp\\Views\\Partials\\Sections\\_Header.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Partials\\Sections\\_Header.cshtml",
+              "ToolTip": "C:\\Projects\\aspnet-1\\Silicon\\WebApp\\Views\\Partials\\Sections\\_Header.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Partials\\Sections\\_Header.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T14:19:06.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
