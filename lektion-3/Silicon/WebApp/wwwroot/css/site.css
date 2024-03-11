@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
+﻿@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
 :root {
   --color-white: #ffffff;
   --color-black: #000000;
@@ -95,6 +95,7 @@ h1 {
   right: 0;
   bottom: 0;
   background-color: var(--color-gray-700);
+  -webkit-transition: 0.4s;
   transition: 0.4s;
 }
 .theme-switch .slider:before {
@@ -105,6 +106,7 @@ h1 {
   left: 4px;
   bottom: 4px;
   background-color: white;
+  -webkit-transition: 0.4s;
   transition: 0.4s;
 }
 .theme-switch input:checked + .slider {

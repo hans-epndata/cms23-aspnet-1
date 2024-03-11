@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Silicon</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="wrapper">
+        <partial name="~/Views/Partials/_Header.cshtml" />
+        <main>
+            @RenderBody()
+        </main>
+        <partial name="~/Views/Partials/_Footer.cshtml" />
+    </div>
+    <script src="https://kit.fontawesome.com/a041cc045c.js" crossorigin="anonymous"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+</html>

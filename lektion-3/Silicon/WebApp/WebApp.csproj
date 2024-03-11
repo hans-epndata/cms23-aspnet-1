@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="compilerconfig.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="compilerconfig.json" />
+    <None Include="wwwroot\css\scss\components\_boxes.scss" />
+    <None Include="wwwroot\css\scss\components\_buttons.scss" />
+    <None Include="wwwroot\css\scss\components\_switches.scss" />
+    <None Include="wwwroot\css\scss\components\_titles.scss" />
+    <None Include="wwwroot\css\scss\cores\_common.scss" />
+    <None Include="wwwroot\css\scss\cores\_media.scss" />
+    <None Include="wwwroot\css\scss\sections\_features.scss" />
+    <None Include="wwwroot\css\scss\sections\_header.scss" />
+    <None Include="wwwroot\css\scss\sections\_showcase.scss" />
+    <None Include="wwwroot\images\brands\brand-logo_1.svg" />
+    <None Include="wwwroot\images\brands\brand-logo_2.svg" />
+    <None Include="wwwroot\images\brands\brand-logo_3.svg" />
+    <None Include="wwwroot\images\brands\brand-logo_4.svg" />
+    <None Include="wwwroot\images\icons\add-group.svg" />
+    <None Include="wwwroot\images\icons\bell.svg" />
+    <None Include="wwwroot\images\icons\chat.svg" />
+    <None Include="wwwroot\images\icons\presentation.svg" />
+    <None Include="wwwroot\images\icons\shield.svg" />
+    <None Include="wwwroot\images\icons\tests.svg" />
+  </ItemGroup>
+
+</Project>
