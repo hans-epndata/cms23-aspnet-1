@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projects\\aspnet-1\\lektion-3\\Silicon\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B617215C-063D-488F-998C-D0E7FF0098A5}|WebApp\\WebApp.csproj|c:\\projects\\aspnet-1\\lektion-3\\silicon\\webapp\\wwwroot\\css\\scss\\sections\\_signin.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{B617215C-063D-488F-998C-D0E7FF0098A5}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\css\\scss\\sections\\_signin.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B617215C-063D-488F-998C-D0E7FF0098A5}|WebApp\\WebApp.csproj|c:\\projects\\aspnet-1\\lektion-3\\silicon\\webapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B617215C-063D-488F-998C-D0E7FF0098A5}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B617215C-063D-488F-998C-D0E7FF0098A5}|WebApp\\WebApp.csproj|c:\\projects\\aspnet-1\\lektion-3\\silicon\\webapp\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B617215C-063D-488F-998C-D0E7FF0098A5}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B617215C-063D-488F-998C-D0E7FF0098A5}|WebApp\\WebApp.csproj|c:\\projects\\aspnet-1\\lektion-3\\silicon\\webapp\\wwwroot\\css\\scss\\components\\_forms.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{B617215C-063D-488F-998C-D0E7FF0098A5}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\css\\scss\\components\\_forms.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B617215C-063D-488F-998C-D0E7FF0098A5}|WebApp\\WebApp.csproj|c:\\projects\\aspnet-1\\lektion-3\\silicon\\webapp\\models\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B617215C-063D-488F-998C-D0E7FF0098A5}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_forms.scss",
+              "DocumentMoniker": "C:\\Projects\\aspnet-1\\lektion-3\\Silicon\\WebApp\\wwwroot\\css\\scss\\components\\_forms.scss",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\css\\scss\\components\\_forms.scss",
+              "ToolTip": "C:\\Projects\\aspnet-1\\lektion-3\\Silicon\\WebApp\\wwwroot\\css\\scss\\components\\_forms.scss",
+              "RelativeToolTip": "WebApp\\wwwroot\\css\\scss\\components\\_forms.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-03-11T14:26:22.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignInViewModel.cs",
+              "DocumentMoniker": "C:\\Projects\\aspnet-1\\lektion-3\\Silicon\\WebApp\\Models\\SignInViewModel.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\SignInViewModel.cs",
+              "ToolTip": "C:\\Projects\\aspnet-1\\lektion-3\\Silicon\\WebApp\\Models\\SignInViewModel.cs",
+              "RelativeToolTip": "WebApp\\Models\\SignInViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T14:15:25.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Projects\\aspnet-1\\lektion-3\\Silicon\\WebApp\\Views\\Auth\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Auth\\SignIn.cshtml",
+              "ToolTip": "C:\\Projects\\aspnet-1\\lektion-3\\Silicon\\WebApp\\Views\\Auth\\SignIn.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Auth\\SignIn.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T14:15:11.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Projects\\aspnet-1\\lektion-3\\Silicon\\WebApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Projects\\aspnet-1\\lektion-3\\Silicon\\WebApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAswDIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T14:14:10.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_signin.scss",
+              "DocumentMoniker": "C:\\Projects\\aspnet-1\\lektion-3\\Silicon\\WebApp\\wwwroot\\css\\scss\\sections\\_signin.scss",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\css\\scss\\sections\\_signin.scss",
+              "ToolTip": "C:\\Projects\\aspnet-1\\lektion-3\\Silicon\\WebApp\\wwwroot\\css\\scss\\sections\\_signin.scss",
+              "RelativeToolTip": "WebApp\\wwwroot\\css\\scss\\sections\\_signin.scss",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-03-11T14:13:54.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

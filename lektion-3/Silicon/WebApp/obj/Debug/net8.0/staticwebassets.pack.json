@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\css\\scss\\components\\_buttons.scss"
     },
     {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-3\\Silicon\\WebApp\\wwwroot\\css\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_forms.scss"
+    },
+    {
       "Id": "C:\\Projects\\aspnet-1\\lektion-3\\Silicon\\WebApp\\wwwroot\\css\\scss\\components\\_switches.scss",
       "PackagePath": "staticwebassets\\css\\scss\\components\\_switches.scss"
     },
@@ -47,6 +51,14 @@
     {
       "Id": "C:\\Projects\\aspnet-1\\lektion-3\\Silicon\\WebApp\\wwwroot\\css\\scss\\sections\\_showcase.scss",
       "PackagePath": "staticwebassets\\css\\scss\\sections\\_showcase.scss"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-3\\Silicon\\WebApp\\wwwroot\\css\\scss\\sections\\_signin.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_signin.scss"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-3\\Silicon\\WebApp\\wwwroot\\css\\scss\\sections\\_signup.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_signup.scss"
     },
     {
       "Id": "C:\\Projects\\aspnet-1\\lektion-3\\Silicon\\WebApp\\wwwroot\\css\\site.css",
