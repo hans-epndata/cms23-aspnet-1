@@ -1,0 +1,15 @@
+C:\Projects\cms23-aspnet-1\lektion-4\RegularExpressionChecker\RegularExpressionChecker\bin\Debug\net8.0\RegularExpressionChecker.exe
+C:\Projects\cms23-aspnet-1\lektion-4\RegularExpressionChecker\RegularExpressionChecker\bin\Debug\net8.0\RegularExpressionChecker.deps.json
+C:\Projects\cms23-aspnet-1\lektion-4\RegularExpressionChecker\RegularExpressionChecker\bin\Debug\net8.0\RegularExpressionChecker.runtimeconfig.json
+C:\Projects\cms23-aspnet-1\lektion-4\RegularExpressionChecker\RegularExpressionChecker\bin\Debug\net8.0\RegularExpressionChecker.dll
+C:\Projects\cms23-aspnet-1\lektion-4\RegularExpressionChecker\RegularExpressionChecker\bin\Debug\net8.0\RegularExpressionChecker.pdb
+C:\Projects\cms23-aspnet-1\lektion-4\RegularExpressionChecker\RegularExpressionChecker\obj\Debug\net8.0\RegularExpressionChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\cms23-aspnet-1\lektion-4\RegularExpressionChecker\RegularExpressionChecker\obj\Debug\net8.0\RegularExpressionChecker.AssemblyInfoInputs.cache
+C:\Projects\cms23-aspnet-1\lektion-4\RegularExpressionChecker\RegularExpressionChecker\obj\Debug\net8.0\RegularExpressionChecker.AssemblyInfo.cs
+C:\Projects\cms23-aspnet-1\lektion-4\RegularExpressionChecker\RegularExpressionChecker\obj\Debug\net8.0\RegularExpressionChecker.csproj.CoreCompileInputs.cache
+C:\Projects\cms23-aspnet-1\lektion-4\RegularExpressionChecker\RegularExpressionChecker\obj\Debug\net8.0\RegularExpressionChecker.sourcelink.json
+C:\Projects\cms23-aspnet-1\lektion-4\RegularExpressionChecker\RegularExpressionChecker\obj\Debug\net8.0\RegularExpressionChecker.dll
+C:\Projects\cms23-aspnet-1\lektion-4\RegularExpressionChecker\RegularExpressionChecker\obj\Debug\net8.0\refint\RegularExpressionChecker.dll
+C:\Projects\cms23-aspnet-1\lektion-4\RegularExpressionChecker\RegularExpressionChecker\obj\Debug\net8.0\RegularExpressionChecker.pdb
+C:\Projects\cms23-aspnet-1\lektion-4\RegularExpressionChecker\RegularExpressionChecker\obj\Debug\net8.0\RegularExpressionChecker.genruntimeconfig.cache
+C:\Projects\cms23-aspnet-1\lektion-4\RegularExpressionChecker\RegularExpressionChecker\obj\Debug\net8.0\ref\RegularExpressionChecker.dll

@@ -1,0 +1,62 @@
+@mixin heading {
+    font-family: var(--font-manrope);
+    color: var(--color-gray-900);
+    font-weight: var(--font-weight-extrabold);
+    line-height: 1.5;
+}
+
+
+@mixin display-1 {
+    @include heading;
+    font-size: 5em;
+}
+
+@mixin display-2 {
+    @include heading;
+    font-size: 4.5em;
+}
+
+@mixin display-3 {
+    @include heading;
+    font-size: 4em;
+}
+
+@mixin display-4 {
+    @include heading;
+    font-size: 3.5em;
+}
+
+@mixin display-5 {
+    @include heading;
+    font-size: 3em;
+}
+
+@mixin display-6 {
+    @include heading;
+    font-size: 2.625em;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    @include heading;
+}
+
+
+h1 {
+    font-size: 2.5em;
+}
+h2 {
+    font-size: 2em;
+}
+h3 {
+    font-size: 1.75em;
+}
+h4 {
+    font-size: 1.5em;
+}
+h5 {
+    font-size: 1.25em;
+}
+h6 {
+    font-size: 1em;
+}

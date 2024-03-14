@@ -1,0 +1,57 @@
+form {
+    width: 100%;
+    display: grid;
+    font-size: 16px;
+
+
+    .input-group {
+        display: grid;
+        margin-bottom: 20px;
+    }
+
+    .checkbox-group {
+        input[type = checkbox] {
+            margin-right: 10px;
+        }
+
+
+        .input-group {
+            display: flex;
+            align-items: center;
+        }
+    }
+
+    textarea,
+    input {
+        font-size: 1em;
+        font-family: "manrope";
+        padding: 1rem;
+        border-radius: 8px;
+        border: 1px solid var(--color-gray-400);
+
+        &::placeholder {
+            opacity: 0.5;
+        }
+    }
+
+    input[type=checkbox] {
+        height: 20px;
+        width: 20px;
+        margin: 0;
+    }
+
+    button {
+        width: 100%;
+    }
+
+    .input-validation-error {
+        border-color: var(--color-danger);
+    }
+
+    .field-validation-error {
+        font-size: 14px;
+        font-weight: 400 !important;
+        color: var(--color-danger);
+        padding: 2px 5px;
+    }
+}
