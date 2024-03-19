@@ -1,0 +1,12 @@
+﻿@inject SignInManager<UserEntity> SignInManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+    @User.Identity?.Name
+    <a class="btn btn-theme" asp-action="SignOut" asp-controller="Auth">Sign out</a>
+}
+else
+{
+    <a class="btn btn-theme" asp-action="SignIn" asp-controller="Auth">Sign in</a>
+    <a class="btn btn-theme" asp-action="SignUp" asp-controller="Auth">Sign up</a>
+}

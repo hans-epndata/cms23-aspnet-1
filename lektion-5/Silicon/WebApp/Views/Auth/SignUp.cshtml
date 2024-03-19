@@ -1,0 +1,58 @@
+﻿@model SignUpViewModel
+@{
+    ViewData["Title"] = "Sign up";
+}
+
+<section class="sign-up">
+    <div class="container">
+        <form method="post" asp-action="SignUp" asp-controller="Auth">
+            
+            
+            <div class="alert">
+                @ViewData["StatusMessage"]
+            </div>
+
+
+            <div class="form-firstname input-group">
+                <label asp-for="FirstName"></label>
+                <input asp-for="FirstName" />
+                <span asp-validation-for="FirstName"></span>
+            </div>
+
+            <div class="form-lastname input-group">
+                <label asp-for="LastName"></label>
+                <input asp-for="LastName" />
+                <span asp-validation-for="LastName"></span>
+            </div>
+
+            <div class="form-email input-group">
+                <label asp-for="Email"></label>
+                <input asp-for="Email" />
+                <span asp-validation-for="Email"></span>
+            </div>
+
+            <div class="form-password input-group">
+                <label asp-for="Password"></label>
+                <input asp-for="Password" />
+                <span asp-validation-for="Password"></span>
+            </div>
+
+            <div class="form-confirm input-group">
+                <label asp-for="ConfirmPassword"></label>
+                <input asp-for="ConfirmPassword" />
+                <span asp-validation-for="ConfirmPassword"></span>
+            </div>
+
+            <div class="form-terms checkbox-group">
+                <div class="input-group">
+                    <input asp-for="TermsAndConditions" />
+                    <label asp-for="TermsAndConditions"></label>
+                </div>
+                <span asp-validation-for="TermsAndConditions"></span>
+            </div>
+
+            <button class="btn btn-theme" type="submit">Sign up</button>
+
+        </form>
+    </div>
+</section>

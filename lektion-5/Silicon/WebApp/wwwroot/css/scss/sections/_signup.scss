@@ -1,0 +1,47 @@
+.sign-up {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    margin-top: 2rem;
+
+    form {
+        width: 650px;
+        gap: 20px;
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas: "alert alert" "firstname lastname" "email email" "password password" "confirm confirm" "terms terms" "button button";
+
+        .alert {
+            grid-area: alert;
+        }
+
+        .form-firstname {
+            grid-area: firstname;
+        }
+
+        .form-lastname {
+            grid-area: lastname;
+        }
+
+        .form-email {
+            grid-area: email;
+        }
+
+        .form-password {
+            grid-area: password;
+        }
+
+        .form-confirm {
+            grid-area: confirm;
+        }
+
+        .form-terms {
+            grid-area: terms;
+        }
+
+        button {
+            grid-area: button;
+        }
+    }
+}
