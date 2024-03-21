@@ -1,0 +1,30 @@
+﻿@inject SignInManager<ApplicationUser> SignInManager
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - WebApp</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+
+    <header>
+        @if (SignInManager.IsSignedIn(User))
+        {
+            <a asp-action="SignOut" asp-controller="Auth">Sign out</a>
+        }
+        else
+        {
+            <a asp-action="SignIn" asp-controller="Auth">Sign In</a>
+        }
+    </header>
+
+
+    @RenderBody()
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+</body>
+</html>

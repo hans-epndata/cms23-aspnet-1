@@ -1,0 +1,19 @@
+﻿@model LoginForm
+
+<form method="post" asp-action="Login" asp-controller="Auth" asp-route-ReturnUrl="@ViewData["ReturnUrl"]">
+    <div>
+        @ViewData["StatusMessage"]
+    </div>
+
+    <div class="input-group">
+        <label asp-for="Email"></label>
+        <input asp-for="Email" />
+    </div>
+    <div class="input-group">
+        <label asp-for="Password"></label>
+        <input asp-for="Password" />
+    </div>
+
+    <button type="submit">Login</button>
+
+</form>
