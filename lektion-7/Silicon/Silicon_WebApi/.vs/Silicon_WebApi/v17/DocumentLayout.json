@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\aspnet-1\\lektion-7\\Silicon\\Silicon_WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18A50D79-2886-4217-B799-0C80E3896B13}|WebApi\\WebApi.csproj|c:\\projects\\aspnet-1\\lektion-7\\silicon\\silicon_webapi\\webapi\\controllers\\subscriberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A50D79-2886-4217-B799-0C80E3896B13}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\subscriberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A50D79-2886-4217-B799-0C80E3896B13}|WebApi\\WebApi.csproj|c:\\projects\\aspnet-1\\lektion-7\\silicon\\silicon_webapi\\webapi\\attributes\\useapikeyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A50D79-2886-4217-B799-0C80E3896B13}|WebApi\\WebApi.csproj|solutionrelative:webapi\\attributes\\useapikeyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UseApiKeyAttribute.cs",
+              "DocumentMoniker": "C:\\Projects\\aspnet-1\\lektion-7\\Silicon\\Silicon_WebApi\\WebApi\\Attributes\\UseApiKeyAttribute.cs",
+              "RelativeDocumentMoniker": "WebApi\\Attributes\\UseApiKeyAttribute.cs",
+              "ToolTip": "C:\\Projects\\aspnet-1\\lektion-7\\Silicon\\Silicon_WebApi\\WebApi\\Attributes\\UseApiKeyAttribute.cs",
+              "RelativeToolTip": "WebApi\\Attributes\\UseApiKeyAttribute.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:05:37.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubscribersController.cs",
+              "DocumentMoniker": "C:\\Projects\\aspnet-1\\lektion-7\\Silicon\\Silicon_WebApi\\WebApi\\Controllers\\SubscribersController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\SubscribersController.cs",
+              "ToolTip": "C:\\Projects\\aspnet-1\\lektion-7\\Silicon\\Silicon_WebApi\\WebApi\\Controllers\\SubscribersController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\SubscribersController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwDMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:57:20.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

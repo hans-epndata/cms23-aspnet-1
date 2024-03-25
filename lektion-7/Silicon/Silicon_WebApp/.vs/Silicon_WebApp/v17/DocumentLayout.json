@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\aspnet-1\\lektion-7\\Silicon\\Silicon_WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{377D8791-43AE-4283-B783-AEB6FE224937}|WebApi\\WebApi.csproj|c:\\projects\\aspnet-1\\lektion-7\\silicon\\silicon_webapp\\webapi\\controllers\\susbscribecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377D8791-43AE-4283-B783-AEB6FE224937}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\susbscribecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217695F4-CF85-4A6F-9D2F-4D6086294170}|WebApp\\WebApp.csproj|c:\\projects\\aspnet-1\\lektion-7\\silicon\\silicon_webapp\\webapp\\controllers\\subscribecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217695F4-CF85-4A6F-9D2F-4D6086294170}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\subscribecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217695F4-CF85-4A6F-9D2F-4D6086294170}|WebApp\\WebApp.csproj|c:\\projects\\aspnet-1\\lektion-7\\silicon\\silicon_webapp\\webapp\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217695F4-CF85-4A6F-9D2F-4D6086294170}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377D8791-43AE-4283-B783-AEB6FE224937}|WebApi\\WebApi.csproj|c:\\projects\\aspnet-1\\lektion-7\\silicon\\silicon_webapp\\webapi\\entities\\subscribeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377D8791-43AE-4283-B783-AEB6FE224937}|WebApi\\WebApi.csproj|solutionrelative:webapi\\entities\\subscribeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217695F4-CF85-4A6F-9D2F-4D6086294170}|WebApp\\WebApp.csproj|c:\\projects\\aspnet-1\\lektion-7\\silicon\\silicon_webapp\\webapp\\views\\default\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{217695F4-CF85-4A6F-9D2F-4D6086294170}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\default\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SusbscribeController.cs",
+              "DocumentMoniker": "C:\\Projects\\aspnet-1\\lektion-7\\Silicon\\Silicon_WebApp\\WebApi\\Controllers\\SusbscribeController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\SusbscribeController.cs",
+              "ToolTip": "C:\\Projects\\aspnet-1\\lektion-7\\Silicon\\Silicon_WebApp\\WebApi\\Controllers\\SusbscribeController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\SusbscribeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:51:30.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Projects\\aspnet-1\\lektion-7\\Silicon\\Silicon_WebApp\\WebApp\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Projects\\aspnet-1\\lektion-7\\Silicon\\Silicon_WebApp\\WebApp\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\DefaultController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:51:22.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubscribeController.cs",
+              "DocumentMoniker": "C:\\Projects\\aspnet-1\\lektion-7\\Silicon\\Silicon_WebApp\\WebApp\\Controllers\\SubscribeController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\SubscribeController.cs",
+              "ToolTip": "C:\\Projects\\aspnet-1\\lektion-7\\Silicon\\Silicon_WebApp\\WebApp\\Controllers\\SubscribeController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\SubscribeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:51:20.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubscribeEntity.cs",
+              "DocumentMoniker": "C:\\Projects\\aspnet-1\\lektion-7\\Silicon\\Silicon_WebApp\\WebApi\\Entities\\SubscribeEntity.cs",
+              "RelativeDocumentMoniker": "WebApi\\Entities\\SubscribeEntity.cs",
+              "ToolTip": "C:\\Projects\\aspnet-1\\lektion-7\\Silicon\\Silicon_WebApp\\WebApi\\Entities\\SubscribeEntity.cs",
+              "RelativeToolTip": "WebApi\\Entities\\SubscribeEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:48:33.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Projects\\aspnet-1\\lektion-7\\Silicon\\Silicon_WebApp\\WebApp\\Views\\Default\\Home.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Default\\Home.cshtml",
+              "ToolTip": "C:\\Projects\\aspnet-1\\lektion-7\\Silicon\\Silicon_WebApp\\WebApp\\Views\\Default\\Home.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Default\\Home.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T12:34:01.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
