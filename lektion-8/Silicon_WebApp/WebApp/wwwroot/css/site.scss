@@ -1,0 +1,19 @@
+@import './scss/core/fonts';
+@import './scss/core/variables';
+@import './scss/core/mixins';
+@import './scss/core/core';
+
+@import './scss/components/typography';
+@import './scss/components/containers';
+@import './scss/components/links';
+@import './scss/components/buttons';
+@import './scss/components/alerts';
+@import './scss/components/forms';
+
+@import './scss/sections/cookieconsent';
+@import './scss/sections/header';
+@import './scss/sections/footer';
+@import './scss/sections/signup';
+@import './scss/sections/signin';
+@import './scss/sections/courses';
+@import './scss/sections/pagination';

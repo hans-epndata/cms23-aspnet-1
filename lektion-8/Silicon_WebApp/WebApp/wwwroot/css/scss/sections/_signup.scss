@@ -1,0 +1,82 @@
+.signup {
+    .container {
+        width: 95%;
+
+        form {
+
+            .form-content {
+                margin-top: 30px;
+                display: grid;
+                gap: 20px;
+                grid-template-columns: 1fr;
+                grid-template-areas: "firstname" "lastname" "email" "password" "confirm" "terms" "submit";
+            }
+
+            .input-group {
+                label {
+                    padding: 3px;
+                }
+            }
+
+            .checkbox-group {
+                margin-top: 10px;
+                margin-bottom: 30px;
+            }
+
+
+            #firstName {
+                grid-area: firstname;
+            }
+
+            #lastName {
+                grid-area: lastname;
+            }
+
+            #email {
+                grid-area: email;
+            }
+
+            #password {
+                grid-area: password;
+            }
+
+            #confirm {
+                grid-area: confirm;
+            }
+
+            #terms {
+                grid-area: terms;
+            }
+
+            #btn-submit {
+                grid-area: submit;
+            }
+        }
+    }
+}
+
+@media (min-width: 992px) {
+    .signup {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        .container {
+            width: 40%;
+
+            form {
+                .form-content {
+                    grid-template-columns: 1fr 1fr;
+                    grid-template-areas: "firstname lastname" "email email" "password confirm" "terms terms" "submit submit";
+                }
+
+                .input-group {
+                    label {
+                        padding: 3px;
+                    }
+                }
+            }
+        }
+    }
+}

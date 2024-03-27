@@ -1,0 +1,289 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\components\\_alerts.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\components\\_containers.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\components\\_links.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_links.scss"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\components\\_typography.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\core\\_core.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\core\\_core.scss"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\core\\_fonts.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\core\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\core\\_mixins.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\core\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\core\\_variables.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\core\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_cookieconsent.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_cookieconsent.scss"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_courses.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_courses.scss"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_footer.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_header.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_header.scss"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_pagination.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_signin.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_signin.scss"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_signup.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_signup.scss"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\css\\site.scss",
+      "PackagePath": "staticwebassets\\css\\site.scss"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\brands\\brand_1.svg",
+      "PackagePath": "staticwebassets\\images\\brands\\brand_1.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\brands\\brand_2.svg",
+      "PackagePath": "staticwebassets\\images\\brands\\brand_2.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\brands\\brand_3.svg",
+      "PackagePath": "staticwebassets\\images\\brands\\brand_3.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\brands\\brand_4.svg",
+      "PackagePath": "staticwebassets\\images\\brands\\brand_4.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\course_1.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_1.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\course_1_big.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_1_big.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\course_2.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_2.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\course_3.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_3.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\course_4.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_4.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\course_5.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_5.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\course_6.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_6.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\course_7.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_7.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\course_8.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_8.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\course_9.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\course_9.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\add-group-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\add-group-icon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\bell-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\bell-icon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\chat-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\chat-icon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\dropbox-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\dropbox-icon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\envelope-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\envelope-icon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\evernote-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\evernote-icon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\gmail-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\gmail-icon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\google-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\google-icon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\mailchimp-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\mailchimp-icon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\presentation-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\presentation-icon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\shield-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\shield-icon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\slack-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\slack-icon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\swirl-arrow-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\swirl-arrow-icon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\test-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\test-icon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\trello-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\trello-icon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\icons\\zoom-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\zoom-icon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\logos\\logo-dark.svg",
+      "PackagePath": "staticwebassets\\images\\logos\\logo-dark.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\logos\\logo-light.svg",
+      "PackagePath": "staticwebassets\\images\\logos\\logo-light.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\other\\appstore-download-icon-dark.svg",
+      "PackagePath": "staticwebassets\\images\\other\\appstore-download-icon-dark.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\other\\appstore-download-icon-light.svg",
+      "PackagePath": "staticwebassets\\images\\other\\appstore-download-icon-light.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\other\\googleplay-download-icon-dark.svg",
+      "PackagePath": "staticwebassets\\images\\other\\googleplay-download-icon-dark.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\other\\googleplay-download-icon-light.svg",
+      "PackagePath": "staticwebassets\\images\\other\\googleplay-download-icon-light.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\other\\illustration-dark.svg",
+      "PackagePath": "staticwebassets\\images\\other\\illustration-dark.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\other\\illustration-light.svg",
+      "PackagePath": "staticwebassets\\images\\other\\illustration-light.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\other\\laptop-screen-dark.svg",
+      "PackagePath": "staticwebassets\\images\\other\\laptop-screen-dark.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\other\\laptop-screen-light.svg",
+      "PackagePath": "staticwebassets\\images\\other\\laptop-screen-light.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\other\\macbook-pro-laptop.svg",
+      "PackagePath": "staticwebassets\\images\\other\\macbook-pro-laptop.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\other\\taskmaster-front.svg",
+      "PackagePath": "staticwebassets\\images\\other\\taskmaster-front.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\other\\taskmaster-mobile-iphone12-with-screen_1.svg",
+      "PackagePath": "staticwebassets\\images\\other\\taskmaster-mobile-iphone12-with-screen_1.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\other\\taskmaster-mobile-screen_1.svg",
+      "PackagePath": "staticwebassets\\images\\other\\taskmaster-mobile-screen_1.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\images\\other\\taskmaster-twisted.svg",
+      "PackagePath": "staticwebassets\\images\\other\\taskmaster-twisted.svg"
+    },
+    {
+      "Id": "C:\\Projects\\aspnet-1\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApp.props",
+      "PackagePath": "build\\WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApp.props",
+      "PackagePath": "buildMultiTargeting\\WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApp.props",
+      "PackagePath": "buildTransitive\\WebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

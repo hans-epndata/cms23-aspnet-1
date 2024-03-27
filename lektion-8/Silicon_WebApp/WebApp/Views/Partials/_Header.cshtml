@@ -1,0 +1,48 @@
+﻿@{
+    var theme = Context.Request.Cookies["theme"] ?? "light";
+    var isDarkMode = (theme == "dark") ? true : false;
+}
+
+
+<header>
+    <div class="container">
+        <a id="logo" asp-action="Home" asp-controller="Default">
+            <img id="logo-img" src="~/images/logos/logo-@(theme).svg" alt="Silicon" />
+        </a>
+        <nav>
+            <a asp-action="Home" asp-controller="Default" asp-fragment="overview">Overview</a>
+            <a asp-action="Home" asp-controller="Default" asp-fragment="features">Features</a>
+            @if (SignInManager.IsSignedIn(User))
+            {
+                <a asp-action="Index" asp-controller="Courses">Courses</a>
+            }
+            <a asp-action="Contact" asp-controller="Default">Contact</a>
+        </nav>
+
+        <div id="theme-switch" class="btn-switch">
+            <label>Light</label>
+            <label class="switch" for="switch-mode">
+                <input type="checkbox" id="switch-mode" checked="@isDarkMode" />
+                <span class="slider round"></span>
+            </label>
+            <label>Dark</label>
+        </div>
+
+        <div class="account-buttons">
+            @if (SignInManager.IsSignedIn(User))
+            {
+                <a class="btn btn-theme" asp-action="SignOut" asp-controller="Auth"><i class="fa-sharp fa-regular fa-arrow-right-from-bracket"></i>Sign out</a>
+            }
+            else
+            {
+                <a class="btn btn-gray" asp-action="SignIn" asp-controller="Auth"><i class="fa-sharp fa-regular fa-arrow-right-to-bracket"></i>Sign in</a>
+                <a class="btn btn-theme" asp-action="SignUp" asp-controller="Auth"><i class="fa-regular fa-user"></i>Sign up</a>
+            }
+
+
+        </div>
+
+        <button class="btn-mobile"><i class="fa-regular fa-bars"></i></button>
+
+    </div>
+</header>
